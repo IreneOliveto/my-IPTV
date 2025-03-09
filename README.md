@@ -9,7 +9,7 @@ All requests to add new channels will be accepted (no matter the political or so
 ## Usage
 Copy the link below and add it to your favorite `IPTV Player`.
 
-|    **iptvita.m3u**  |   https://github.com/sfiorini/IPTV-Italy/raw/main/iptvitaly.m3u    |
+|    **iptvita.m3u**  |   https://github.com/IreneOliveto/my-IPTV/raw/main/iptvitaly.m3u    |
 |--------------------:|:----------------------------------------------------------------:|
 
 ## [EPG](https://en.wikipedia.org/wiki/Electronic_program_guide) 
